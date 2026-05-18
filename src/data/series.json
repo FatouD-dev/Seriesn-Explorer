@@ -1,0 +1,168 @@
+[
+  {
+    "id":1,
+    "titre":"TIMIS-L'Or Noir",
+    "genre":["Drame","Thriller","Corruption","Enquête"],
+    "chaine":"EvenProd",
+    "annee":2026,
+    "saisons":1,
+    "note":5,
+    "synopsis":"Plongez au cœur de TIMIS, où Fella et Sémou s'attaquent à la corruption et la question de l'or noir au Sénégal. Face au redoutable ministre Kanté, l'inspectrice du Trésor et le journaliste devront choisir : se taire pour survivre ou tout risquer pour faire éclater la vérité. Ils seront soutenus par Matar Lô, dernière force syndicale, prêt à tout pour résister. Un thriller haletant entre jeux de pouvoir, trahisons et résistance.",
+    "image":"/images/timis.jpeg",
+    "acteurs":["Fella Ngom","Sémou","Matar Lô","Kader Kanté"],
+    "enCours":true
+  },
+  
+  {
+    "id":2,
+    "titre":"Pod et Marichou",
+    "genre":["Famille"],
+    "chaine":"MarodiTV",
+    "annee":2016,
+    "saisons":4,
+    "note":4.3,
+    "synopsis":"Une comédie légendaire mettant en scène deux personnages hauts en couleur, Pod et Marichou, qui enchaînent les situations cocasses dans leur quartier de Dakar.",
+    "image":"/images/pm.jpeg",
+    "acteurs":["Pa Omar Diop","Marichou DIOP","Eva"],
+    "enCours":false
+  },
+  
+  {
+    "id":3,
+    "titre":"Maitresse d'un homme marié",
+    "genre":["Drame","Romance"],
+    "chaine":"MarodiTV",
+    "annee":2018,
+    "saisons":2,
+    "note":4.0,
+    "synopsis":"Une série qui aborde avec sensibilité les défis des relations extraconjugales dans la société sénégalaise contemporaine, ses conséquences et ses enseignements.",
+    "image":"/images/maitressed'unhommemarié.jpeg",
+    "acteurs":["Amsa","Lala.P.Ndiaye","Cheikh Ndiaye"],
+    "enCours":false
+  },
+  
+  {
+    "id":4,
+    "titre":"Hair Lover",
+    "genre":["Comédie","Drame"],
+    "chaine":"KalistaProduction",
+    "annee":2017,
+    "saisons":3,
+    "note":4.4,
+    "synopsis":"Hair Lover raconte les péripéties d'une famille moderne à Dakar, mêlant humour et moments émouvants pour dépeindre la vie quotidienne sénégalaise.",
+    "image":"/images/hairlover.jpeg",
+    "acteurs":["Fanta","Lahad"],
+    "enCours":false
+  },
+
+  {
+    "id":5,
+    "titre":"Impact",
+    "genre":["Drame","Romance","Thriller","Famille"],
+    "chaine":"EvenProd",
+    "annee":2021,
+    "saisons":2,
+    "note":4.2,
+    "synopsis":"Une série inspirante sur le parcours de jeunes artistes sénégalais qui rêvent de faire justice.",
+    "image":"/images/impact.jpeg",
+    "acteurs":["Jessica Gradel","Franc Gradel","Issa Diouf","Moussa Diouf"],
+    "enCours":false
+  },
+  
+  {
+    "id":6,
+    "titre":"Takkema",
+    "genre":["Social"],
+    "chaine":"EvenProd",
+    "annee":2026,
+    "saisons":2,
+    "note":4.1,
+    "synopsis":"Une série poignante sur la solidarité communautaire dans un village sénégalais confronté aux changements climatiques et économiques.",
+    "image":"/images/takema.jpeg",
+    "acteurs":["Moustapha Niang","Aminata Thiam","Aliou Sow"],
+    "enCours":false
+  },
+  
+  {
+    "id":7,
+    "titre":"Famille sénégalaise",
+    "genre":["Drame","Famille"],
+    "chaine":"PikiniProduction",
+    "annee":2019,
+    "saisons":3,
+    "note":4.6,
+    "synopsis":"Une saga familiale épique qui suit trois générations d'une famille sénégalaise à travers les époques et les transformations sociales.",
+    "image":"/images/famillesénégalaise.jpeg",
+    "acteurs":["Maimouna Gueye","Omar Diop","Awa Niang","Mamadou Ly"],
+    "enCours":false
+  },
+  
+  {
+    "id":8,
+    "titre":"Karma",
+    "genre":["Drame","Thriller"],
+    "chaine":"MarodiTV",
+    "annee":2020,
+    "saisons":3,
+    "note":4.7,
+    "synopsis":"Une série captivante sur les conséquences des actions et la loi du retour, où chaque personnage doit faire face aux résultats de ses choix passés.",
+    "image":"/images/karma.jpeg",
+    "acteurs":["Amy Léa","Abdoul Majib","Lamine"],
+    "enCours":false
+  },
+  
+  {
+    "id":9,
+    "titre":"Attraction Eternelle"
+    ,"genre":["Drame","Romance"],
+    "chaine":"InvictusGroup",
+    "annee":2021,
+    "saisons":1,
+    "note":4.3,
+    "synopsis":"Une comédie romantique moderne qui explore les joies et peines des relations amoureuses dans le Dakar contemporain.",
+    "image":"/images/attractioneternelle.jpeg",
+    "acteurs":["Amsatou Gueye","Modou Gueye","Ndeye Mbaye"],
+    "enCours":false
+  },
+  
+  {
+    "id":10,
+    "titre":"Salma",
+    "genre":["Drame","Couple"],
+    "chaine":"InvictusGroup",
+    "annee":2022,
+    "saisons":1,
+    "note":4.4,
+    "synopsis":"L'histoire inspirante d'un grand commerçant sénégalais qui a bâti son empire du néant, entre tradition et modernité.",
+    "image":"/images/salma.jpeg",
+    "acteurs":["Salma","Rachid"],
+    "enCours":false
+  },
+  
+  {
+    "id":11,
+    "titre":"Takander",
+    "genre":["Drame","Enquête"],
+    "chaine":"MarodiTV",
+    "annee":2024,
+    "saisons":1,
+    "note":4.8,
+    "synopsis":"Une série spectaculaire sur les pêcheurs sénégalais et leurs défis face à l'océan, la pêche industrielle et la préservation des traditions.",
+    "image":"/images/takander.jpeg",
+    "acteurs":["Boul","Pata","Binoush","Diakhoumpa"],
+    "enCours":false
+  },
+  
+  {
+    "id":12,
+    "titre":"Mbokk",
+    "genre":["Drame","Famille"],
+    "chaine":"KharMedia",
+    "annee":2026,
+    "saisons":1,
+    "note":4.5,
+    "synopsis":"Une série puissante sur les femmes de pouvoir dans l'histoire du Sénégal, entre reconstitution historique et fiction.","image":"/images/mbokk.jpeg",
+    "acteurs":["Oumou Salamata","Makhtar","Awa Cheikh"],
+    "enCours":true
+  }
+]
